@@ -4,7 +4,7 @@ return array(
 		 * Insert here your favourite tags.
 		 * They need a tagname as shown  in the example
 		 * The tagname is the tag which gets created, all others are attributes of that tag.
-		 * It is recomanded to the same for tag and tagname except you want multiple favourites for one tag
+		 * It is recomanded to use same for tag and tagname except you want multiple favourites for one tag
 		 * 
 		 */
 
